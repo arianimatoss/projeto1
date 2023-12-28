@@ -1,0 +1,73 @@
+body{
+  text-align: center;
+}
+
+h1{
+  color: #3F3D56;
+  font-family: Dosis;
+  font-size: 32px;
+  font-weight: 500;
+  margin-top: 32px;
+  margin-bottom: 16px;
+}
+
+h1 span{
+  color: #EE24FF;
+  font-weight: 700;
+}
+
+p{
+  color: #828282;
+ font-family: Open Sans;
+ font-size: 15px;
+ font-weight: 400;
+}
+
+strong{
+color: #3F3D56;
+font-weight: 700;
+}
+
+span{
+  color: #828282;
+  font-weight: 700;
+}
+
+#start{
+  width: 1024px;
+  margin: auto;
+}
+ 
+
+
+a{
+  color: #3F3D56;
+  text-align: center;
+  font-family: Open Sans;
+  font-size: 15px;
+  font-weight: 700;
+  text-decoration: none;
+  margin-left:42px;
+  margin-bottom: 41px;
+  margin-top: 80px;
+}
+
+a:hover{
+  color: #000000;
+}
+
+#favicon{
+  width: 32.057px;
+  height: 58.635px;
+}
+
+#line{
+  width: 391px ;
+  height: 0;
+  border: 1px solid #ECEFF2;
+  margin: auto;
+ margin-top: 64px;
+}
+
+
+ 
